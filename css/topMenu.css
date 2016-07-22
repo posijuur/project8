@@ -1,0 +1,25 @@
+@media screen and (max-width: 320px) {
+  .top-menu {
+    margin-top: 36px;
+    line-height: 22px;
+  }
+  .top-menu_item {
+    display: inline-block;
+  }
+  .top-menu_link {
+    display: block;
+    padding: 0 4px 8px 5px;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 0.4px;
+  }
+  .top-menu_link:hover {
+    padding-bottom: 6px;
+    border-bottom: 2px solid #edbfff;
+    text-shadow: 2px 2px 25px white;
+  }
+
+  .sub-menu {
+    display: none;
+  }
+}

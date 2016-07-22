@@ -1,0 +1,70 @@
+@media (min-width: 481px) and (max-width: 768px) {
+  .menu-bottom {
+    margin-left: 14px;
+    margin-bottom: 28px;
+  }
+  .menu-bottom_item {
+    display: inline-block;
+  }
+  .menu-bottom_link {
+    display: block;
+    margin-right: 54px;
+    padding: 0 4px 8px 5px;
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.49);
+    text-transform: uppercase;
+    font-family: 'League Gothic',sans-serif;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 0px;
+  }
+  .menu-bottom_link:hover {
+    padding-bottom: 6px;
+    border-bottom: 2px solid #edbfff;
+  }
+  .menu-bottom_link__h {
+    margin-right: 41px;
+  }
+  .menu-bottom_link__a {
+    margin-right: 41px;
+  }
+  .menu-bottom_link__b {
+    margin-right: 41px;
+  }
+  .menu-bottom_link__p {
+    margin-right: 41px;
+  }
+  .menu-bottom_link__l {
+    margin-right: 39px;
+  }
+  .menu-bottom_link__d {
+    margin-right: 48px;
+  }
+
+  .menu-bottom__bot {
+    margin-left: 13px;
+  }
+
+  .menu-bottom_link__bot {
+    font-size: 20px;
+  }
+
+  .menu-bottom_link__h__bot {
+    margin-right: 31px;
+  }
+
+  .menu-bottom_link__a__bot {
+    margin-right: 33px;
+  }
+
+  .menu-bottom_link__b__bot {
+    margin-right: 32px;
+  }
+
+  .menu-bottom_link__p__bot {
+    margin-right: 32px;
+  }
+
+  .menu-bottom_link__l__bot {
+    margin-right: 32px;
+  }
+}

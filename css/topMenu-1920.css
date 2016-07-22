@@ -1,0 +1,5 @@
+@media (min-width: 961px) and (max-width: 1920px) {
+  .top-menu {
+    display: none;
+  }
+}

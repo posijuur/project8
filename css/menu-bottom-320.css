@@ -1,0 +1,9 @@
+@media screen and (max-width: 320px) {
+  .menu-bottom {
+    display: none;
+  }
+
+  .menu-bottom__dn {
+    display: none;
+  }
+}

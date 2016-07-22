@@ -1,0 +1,134 @@
+@media (min-width: 481px) and (max-width: 768px) {
+  .social-sprite, .label_link {
+    background-image: url('../img/social-s2cbdc76e75.png');
+    background-repeat: no-repeat;
+  }
+
+  .page {
+    font-family: 'League Gothic',sans-serif;
+    color: #fff;
+  }
+
+  .header {
+    padding-top: 70px;
+    background: url(../img/header768.jpg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    text-align: left;
+  }
+
+  .label_link {
+    display: block;
+    margin-top: -1px;
+    margin-left: 20px;
+    margin-bottom: 32px;
+    width: 152px;
+    height: 41px;
+    background-position: 0 -3893px;
+    color: #fff;
+    font-size: 48px;
+  }
+
+  .span_dn {
+    display: none;
+  }
+
+  .slider {
+    margin-top: 167px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.49);
+    text-align: left;
+  }
+  .slider_title {
+    margin-left: 42px;
+    margin-bottom: 7px;
+    color: #fefefe;
+    font-size: 49px;
+    letter-spacing: -0.3px;
+    word-spacing: -1.9px;
+  }
+  .slider_span {
+    margin-left: 43px;
+    text-transform: uppercase;
+    color: #edbfff;
+    font-size: 24px;
+    letter-spacing: -0.2px;
+    word-spacing: 0.6px;
+  }
+  .slider_p {
+    display: block;
+    margin-left: 42px;
+    margin-top: 4px;
+    width: 275px;
+    height: 105px;
+    font-family: 'Open Sans Light', arial;
+    font-size: 16px;
+    line-height: 23.9px;
+    letter-spacing: -0.1px;
+    word-spacing: 1.1px;
+    overflow: hidden;
+  }
+  .slider_p::first-line {
+    line-height: 34.9px;
+  }
+  .slider_radio {
+    margin-top: 151px;
+    margin-left: 70.6%;
+    margin-bottom: 98px;
+  }
+  .slider_radio_item {
+    display: inline-block;
+    margin-right: 4px;
+    width: 16px;
+    height: 16px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+  }
+  .slider_radio_item:hover .slider_radio_link {
+    display: block;
+  }
+  .slider_radio_link {
+    display: none;
+    margin: 3px auto;
+    width: 10px;
+    height: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+  }
+
+  .slider_radio__mr {
+    margin: 24px 15px 70px 158px;
+  }
+
+  .slider_radio_item__mod {
+    margin-right: 2px;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+  }
+
+  .slider_radio_link__mod {
+    background-color: #454545;
+  }
+
+  .footer {
+    padding-top: 46px;
+    padding-bottom: 85px;
+    background: url(../img/footer768.jpg) no-repeat;
+    box-sizing: cover;
+    color: #fff;
+    font-family: 'Open Sans Light', arial;
+    font-size: 12px;
+    text-shadow: 0px 3px 2px rgba(0, 0, 0, 0.49);
+  }
+  .footer_spans {
+    float: right;
+    margin-right: 23px;
+  }
+  .footer_span {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+  }
+
+  .dn960 {
+    display: none;
+  }
+}
