@@ -96,8 +96,9 @@
     margin-left: 1px;
   }
   .slider_radio {
-    margin: 170px auto 90px;
-    text-align: center;
+    margin-top: 179px;
+    margin-left: 74%;
+    margin-bottom: 98px;
   }
   .slider_radio_item {
     display: inline-block;

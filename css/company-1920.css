@@ -10,7 +10,7 @@
     background: linear-gradient(to top, #36293d, #745183);
     border-top: 1px solid #35283c;
     border-bottom: 1px solid #35283c;
-    text-align: center;
+    text-align: left;
   }
   .company_about {
     display: inline-block;
