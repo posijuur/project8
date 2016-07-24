@@ -1,5 +1,5 @@
 @media (min-width: 961px) and (max-width: 1920px) {
- .social-sprite, .main_dote, .avatar_face, .menu-nunc_item_bgr1, .menu-nunc_item_bgr2, .menu-nunc_item_bgr3, .sponsor_link__label1, .sponsor_link__label2, .sponsor_link__label3, .sponsor_link__label4, .sponsor_link__label5, .sponsor_link__label6 {
+  .social-sprite, .main_dote, .avatar_face, .menu-nunc_item_bgr1, .menu-nunc_item_bgr2, .menu-nunc_item_bgr3, .sponsor_link__label1, .sponsor_link__label2, .sponsor_link__label3, .sponsor_link__label4, .sponsor_link__label5, .sponsor_link__label6 {
     background-image: url('../img/social-s2cbdc76e75.png');
     background-repeat: no-repeat;
   }

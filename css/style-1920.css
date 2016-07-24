@@ -11,15 +11,10 @@
 
   .header {
     padding-top: 70px;
-    background: url(../img/1920.jpg) no-repeat;
+    background: url(../img/header1920.jpg) no-repeat;
     background-size: cover;
     overflow: hidden;
     text-align: left;
-  }
-
-  .lage {
-    width: 960px;
-    margin: 0 auto;
   }
 
   .label {
@@ -101,9 +96,8 @@
     margin-left: 1px;
   }
   .slider_radio {
-    margin-top: 179px;
-    margin-left: 74%;
-    margin-bottom: 98px;
+    margin: 170px auto 90px;
+    text-align: center;
   }
   .slider_radio_item {
     display: inline-block;
