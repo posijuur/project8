@@ -11,10 +11,15 @@
 
   .header {
     padding-top: 70px;
-    background: url(../img/header1920.jpg) no-repeat;
+    background: url(../img/1920.jpg) no-repeat;
     background-size: cover;
     overflow: hidden;
     text-align: left;
+  }
+
+  .lage {
+    width: 960px;
+    margin: 0 auto;
   }
 
   .label {
