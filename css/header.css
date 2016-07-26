@@ -1,0 +1,19 @@
+@media screen and (max-width: 320px) {
+  .menu {
+    margin-top: 36px;
+  }
+  .menu__home {
+    display: block;
+    width: 42px;
+    margin: 0 auto;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #edbfff;
+    font-size: 24px;
+    color: #fff;
+    text-shadow: 3px 0px 3px #c5f9e1;
+  }
+  .menu_sub {
+    display: none;
+  }
+}

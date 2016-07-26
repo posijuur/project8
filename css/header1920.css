@@ -1,0 +1,26 @@
+@media (min-width: 961px) and (max-width: 1920px) {
+  .menu {
+    float: right;
+  }
+  .menu__home {
+    display: none;
+  }
+  .menu_sub__item {
+    display: inline-block;
+  }
+  .menu_sub__link {
+    display: block;
+    font-size: 24px;
+    color: #fff;
+    margin-right: -3px;
+    margin-left: 43px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 3px;
+  }
+  .menu_sub__link:hover {
+    border-bottom: 2px solid #edbfff;
+    padding-bottom: 3px;
+  }
+}

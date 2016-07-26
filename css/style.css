@@ -22,6 +22,11 @@
 @import url(style-1920.css);
 @import url(main-1920.css);
 @import url(menu-bottom-1920.css);
+@import url(header.css);
+@import url(header480.css);
+@import url(header768.css);
+@import url(header960.css);
+@import url(header1920.css);
 @media screen and (max-width: 320px) {
   .social-sprite, .label_link {
     background-image: url('../img/social-s2cbdc76e75.png');
