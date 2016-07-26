@@ -9,6 +9,10 @@
     color: #fff;
   }
 
+  .lage {
+    position: relative;
+  }
+
   .header {
     padding-top: 70px;
     background: url(../img/header768.jpg) no-repeat;

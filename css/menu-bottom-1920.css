@@ -1,5 +1,5 @@
 @media (min-width: 961px) and (max-width: 1920px) {
- .menu-bottom {
+  .menu-bottom {
     margin-top: 3px;
     margin-left: 33.4%;
     margin-bottom: 28px;
@@ -35,7 +35,7 @@
     margin-right: 41px;
   }
   .menu-bottom_link__l {
-    margin-right: 42px;
+    margin-right: 41px;
   }
   .menu-bottom_link__d {
     margin-right: 0px;
@@ -44,6 +44,7 @@
 
   .menu-bottom__bot {
     margin-left: -7px;
+    text-align: center;
   }
 
   .menu-bottom_link__bot {

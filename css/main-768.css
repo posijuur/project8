@@ -70,7 +70,7 @@
 
   .update {
     position: absolute;
-    top: 124%;
+    top: 6%;
     left: 52.7%;
     margin: 0 auto;
     padding-bottom: 111px;
@@ -135,15 +135,17 @@
   }
 
   .sponsor {
-    width: 370px;
+    width: 100%;
     margin-top: 26px;
+    overflow: hidden;
+    height: 100%;
   }
   .sponsor_link {
     margin-bottom: 23px;
+    float: left;
   }
   .sponsor_link__label1 {
-    float: left;
-    display: inline-block;
+    display: block;
     margin-left: 22px;
     margin-right: 55px;
     width: 69px;
@@ -151,44 +153,41 @@
     background-position: 0 -984px;
   }
   .sponsor_link__label2 {
-    display: inline-block;
+    display: block;
     margin-right: 49px;
     width: 72px;
     height: 64px;
     background-position: 0 -1218px;
   }
   .sponsor_link__label3 {
-    display: inline-block;
+    margin-right: 53px;
+    display: block;
     margin-left: 3px;
     width: 65px;
     height: 64px;
     background-position: 0 -1452px;
   }
   .sponsor_link__label4 {
-    position: absolute;
-    top: 161.5%;
-    left: 50.5%;
-    display: inline-block;
+    margin-right: 51px;
+    display: block;
     width: 72px;
     height: 64px;
     background-position: 0 -1686px;
   }
   .sponsor_link__label5 {
-    display: inline-block;
-    position: absolute;
-    top: 161.5%;
-    left: 52.5%;
+    margin-right: 54px;
+    left: 0;
+    display: block;
     margin-top: 1px;
-    margin-left: 107px;
+    margin-left: 0px;
     width: 104px;
     height: 62px;
     background-position: 0 -1920px;
   }
   .sponsor_link__label6 {
-    position: absolute;
-    top: 161.6%;
-    left: 87.1%;
-    display: inline-block;
+    top: 0;
+    left: 0;
+    display: block;
     margin-right: 0;
     width: 78px;
     height: 62px;
@@ -196,7 +195,7 @@
   }
 
   .categories {
-    padding-top: 100px;
+    padding-top: 103px;
     padding-bottom: 38px;
     background-color: #ececec;
     border-top: 1px solid #d8d8d8;
