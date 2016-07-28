@@ -11,6 +11,7 @@
 
   .lage {
     overflow: hidden;
+    min-width: 960px;
   }
 
   .header {

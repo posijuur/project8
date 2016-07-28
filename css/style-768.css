@@ -11,6 +11,11 @@
 
   .lage {
     position: relative;
+    min-width: 750px;
+  }
+
+  .categories_lage {
+    min-width: 758px;
   }
 
   .header {
