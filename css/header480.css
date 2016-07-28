@@ -53,7 +53,8 @@
   .menu_sub__link:hover {
     background-color: rgba(42, 33, 47, 0.4);
     border-bottom: 2px solid #edbfff;
-    padding-top: 6px;
+    padding-top: 7px;
+    padding-bottom: 8px;
   }
   .menu_sub__about {
     margin-top: 5px;
