@@ -2,6 +2,7 @@
   .menu-bottom {
     margin-left: 20px;
     margin-bottom: 36px;
+    min-width: 453px;
   }
   .menu-bottom_item {
     display: inline-block;

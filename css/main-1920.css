@@ -259,6 +259,21 @@
     top: 24.5%;
   }
 
+  .categor, x:-moz-any-link {
+    float: left;
+  }
+
+  .categor_absolut, x:-moz-any-link {
+    position: static;
+    top: 0;
+  }
+
+  .categor_absolut1, x:-moz-any-link {
+    position: static;
+    margin-left: 65px;
+    top: 0;
+  }
+
   .categor__mar {
     margin-right: 62px;
   }

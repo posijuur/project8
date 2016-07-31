@@ -7,7 +7,7 @@
   .company {
     padding-top: 80px;
     padding-bottom: 43px;
-    background: linear-gradient(to top, #36293d, #745183);
+    background: url("../img/grad1.jpg") repeat-x;
     border-top: 1px solid #35283c;
     border-bottom: 1px solid #35283c;
     text-align: left;
@@ -58,5 +58,9 @@
   }
   .company_link:hover {
     text-shadow: 0px 0px 4px rgba(255, 255, 255, 0.86);
+  }
+
+  .company, x:-moz-any-link {
+    background: url("../img/320-480.jpg") repeat-x;
   }
 }

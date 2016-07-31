@@ -218,6 +218,7 @@
   }
 
   .categor {
+    float: left;
     display: inline-block;
     margin-bottom: 6px;
     width: 277px;
@@ -232,7 +233,7 @@
   .categor_p {
     display: block;
     margin-top: 11px;
-    margin-left: -2px;
+    margin-left: 0px;
     width: 285px;
     height: 170px;
     overflow: hidden;
@@ -248,14 +249,8 @@
     margin-top: 7px;
     letter-spacing: 0.1px;
   }
-  .categor_absolut {
-    position: absolute;
-    top: 24.5%;
-  }
   .categor_absolut1 {
-    position: absolute;
-    margin-left: 339px;
-    top: 24.5%;
+    margin-left: 60px;
   }
 
   .categor__mar {

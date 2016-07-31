@@ -7,7 +7,7 @@
   .company {
     padding-top: 77px;
     padding-bottom: 43px;
-    background: linear-gradient(to top, #36293d, #745183);
+    background: url("../img/grad1.jpg") repeat-x;
     border-top: 1px solid #35283c;
     border-bottom: 1px solid #35283c;
     text-align: left;
