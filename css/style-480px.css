@@ -109,6 +109,9 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
   }
+  .footer_span0 {
+    margin-right: 3px;
+  }
 
   .dn960 {
     display: none;

@@ -80,7 +80,7 @@
   }
   .update_link {
     position: absolute;
-    right: 58px;
+    right: 60px;
     margin-top: 4px;
     color: #454545;
     font-size: 19px;
@@ -131,7 +131,7 @@
 
   .sponsor {
     width: 370px;
-    margin: 37px auto -58px;
+    margin: 37px auto -3px;
   }
   .sponsor_link {
     margin-bottom: 23px;
@@ -210,13 +210,14 @@
     display: block;
     margin-top: 9px;
     margin-left: -2px;
-    width: 441px;
+    width: 443px;
     height: 100px;
     overflow: hidden;
     color: #787878;
     font-family: 'Open Sans Light', arial;
-    line-height: 24.2px;
+    line-height: 24px;
     font-size: 16px;
+    letter-spacing: -0.06px;
   }
 
   .categor__mod {

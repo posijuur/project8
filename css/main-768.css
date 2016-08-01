@@ -41,7 +41,7 @@
   }
   .avatar_link {
     display: block;
-    margin-left: 33px;
+    margin-left: 34px;
     margin-top: 0px;
     color: #454545;
     font-size: 25px;
@@ -57,20 +57,21 @@
   }
   .avatar_p__dn {
     display: block;
-    width: 250px;
+    width: 251px;
     height: 145px;
-    margin-left: 12%;
+    margin-left: 13%;
     margin-top: -15px;
     overflow: hidden;
     line-height: 24.1px;
     color: #454545;
     font-family: 'Open Sans Light', arial;
     font-size: 16px;
+    letter-spacing: -0.1px;
   }
 
   .update {
     position: absolute;
-    top: 6%;
+    top: 5.5%;
     left: 52.7%;
     margin: 0 auto;
     padding-bottom: 111px;
@@ -132,6 +133,10 @@
     margin-top: -4px;
     font-size: 16px;
     font-family: 'Open Sans Light', arial;
+  }
+
+  .spanner {
+    margin-left: -3px;
   }
 
   .sponsor {
@@ -212,6 +217,9 @@
     margin-bottom: 20px;
     color: #454545;
     font-size: 24px;
+  }
+  .categor_link__mod {
+    margin-left: -3px;
   }
   .categor_p {
     display: block;

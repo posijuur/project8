@@ -61,7 +61,7 @@
     color: #edbfff;
     font-size: 24px;
     letter-spacing: -0.2px;
-    word-spacing: 0.6px;
+    word-spacing: 0.8px;
   }
   .slider_p {
     display: block;
@@ -71,8 +71,8 @@
     height: 105px;
     font-family: 'Open Sans Light', arial;
     font-size: 16px;
-    line-height: 23.9px;
-    letter-spacing: -0.1px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
     word-spacing: 1.1px;
     overflow: hidden;
   }
@@ -131,6 +131,9 @@
   .footer_spans {
     float: right;
     margin-right: 23px;
+  }
+  .footer_span0 {
+    margin-right: 3px;
   }
   .footer_span {
     font-family: 'Open Sans', sans-serif;
