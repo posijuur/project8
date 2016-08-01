@@ -4,6 +4,10 @@
     background-repeat: no-repeat;
   }
 
+  html {
+    width: 768px;
+  }
+
   .page {
     font-family: 'League Gothic',sans-serif;
     color: #fff;
