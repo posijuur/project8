@@ -24,7 +24,7 @@ font-style: normal;
   .header {
     padding-top: 70px;
     background: url(../img/1920.jpg) no-repeat;
-    background-size: cover;
+    background-position: 52% 100%;
     overflow: hidden;
     text-align: left;
   }
@@ -125,6 +125,7 @@ font-style: normal;
   .slider_radio_item:hover .slider_radio_link {
     display: block;
   }
+
   .slider_radio_link {
     display: none;
     margin: 3px auto;
@@ -256,7 +257,7 @@ font-style: normal;
     position: relative;
     padding-top: 99px;
     padding-bottom: 3px;
-    background-color: #f9f9f9;
+    background: #f9f9f9;
     border-top: 1px solid #f9f9f9;
     overflow: hidden;
   }

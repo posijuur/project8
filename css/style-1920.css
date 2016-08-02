@@ -21,8 +21,7 @@
 
   .header {
     padding-top: 70px;
-    background: url(../img/1920.jpg) no-repeat;
-    background-size: cover;
+    background: url(../img/1920.jpg) 52% 100% no-repeat;
     overflow: hidden;
     text-align: left;
   }
